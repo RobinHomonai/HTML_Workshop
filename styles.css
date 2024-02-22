@@ -6,7 +6,12 @@ body {
     padding: 0;
 }
 
-
+header {
+    background-color: #d10000;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
 
 
 
